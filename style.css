@@ -2,6 +2,10 @@ h1{
     color: darkmagenta;
 }
 
+body {
+    background-color: blue;
+}
+
 img{
     border: red;
 }
